@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Gotham';
-    src: url('Gotham-BoldItalic.woff2') format('woff2'),
-        url('Gotham-BoldItalic.woff') format('woff');
+    src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff2') format('woff2'),
+        url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Gotham';
-    src: url('Gotham-BookItalic.woff2') format('woff2'),
-        url('Gotham-BookItalic.woff') format('woff');
+    src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff2') format('woff2'),
+        url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Gotham';
-    src: url('Gotham-MediumItalic.woff2') format('woff2'),
-        url('Gotham-MediumItalic.woff') format('woff');
+    src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-MediumItalic.woff2') format('woff2'),
+        url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'Avenir LT Std';
-    src: url('AvenirLTStd-Black.woff2') format('woff2'),
-        url('AvenirLTStd-Black.woff') format('woff');
+    src: url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Black.woff2') format('woff2'),
+        url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'Avenir LT Std';
-    src: url('AvenirLTStd-Book.woff2') format('woff2'),
-        url('AvenirLTStd-Book.woff') format('woff');
+    src: url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Book.woff2') format('woff2'),
+        url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Book.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -45,8 +45,8 @@
 
 @font-face {
     font-family: 'Avenir LT Std';
-    src: url('AvenirLTStd-Roman.woff2') format('woff2'),
-        url('AvenirLTStd-Roman.woff') format('woff');
+    src: url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Roman.woff2') format('woff2'),
+        url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Roman.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -54,8 +54,8 @@
 
 @font-face {
     font-family: 'Gotham';
-    src: url('Gotham-LightItalic.woff2') format('woff2'),
-        url('Gotham-LightItalic.woff') format('woff');
+    src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-LightItalic.woff2') format('woff2'),
+        url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
