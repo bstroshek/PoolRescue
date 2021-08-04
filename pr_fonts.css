@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Gotham';
+    font-family: "Gotham";
     src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff2') format('woff2'),
         url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff') format('woff');
     font-weight: bold;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'Gotham';
+    font-family: "Gotham";
     src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff2') format('woff2'),
         url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff') format('woff');
     font-weight: 500;
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-    font-family: 'Gotham';
+    font-family: "Gotham";
     src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-MediumItalic.woff2') format('woff2'),
         url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-MediumItalic.woff') format('woff');
     font-weight: 500;
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir LT Std';
+    font-family: "Avenir LT Std";
     src: url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Black.woff2') format('woff2'),
         url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Black.woff') format('woff');
     font-weight: 900;
@@ -35,7 +35,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir LT Std';
+    font-family: "Avenir LT Std";
     src: url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Book.woff2') format('woff2'),
         url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Book.woff') format('woff');
     font-weight: normal;
@@ -44,7 +44,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir LT Std';
+    font-family: "Avenir LT Std";
     src: url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Roman.woff2') format('woff2'),
         url('https://github.com/bstroshek/PoolRescue/blob/main/AvenirLTStd-Roman.woff') format('woff');
     font-weight: normal;
@@ -53,7 +53,7 @@
 }
 
 @font-face {
-    font-family: 'Gotham';
+    font-family: "Gotham";
     src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-LightItalic.woff2') format('woff2'),
         url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-LightItalic.woff') format('woff');
     font-weight: 300;
