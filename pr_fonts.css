@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Gotham';
+    font-family: 'Gotham Bold';
     src: url('Gotham-BoldItalic.woff2') format('woff2'),
         url('Gotham-BoldItalic.woff') format('woff');
     font-weight: bold;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'Gotham';
+    font-family: 'Gotham Book';
     src: url('Gotham-BookItalic.woff2') format('woff2'),
         url('Gotham-BookItalic.woff') format('woff');
     font-weight: 500;
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-    font-family: 'Gotham';
+    font-family: 'Gotham Medium';
     src: url('Gotham-MediumItalic.woff2') format('woff2'),
         url('Gotham-MediumItalic.woff') format('woff');
     font-weight: 500;
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir LT Std';
+    font-family: 'Avenir LT Std Black';
     src: url('AvenirLTStd-Black.woff2') format('woff2'),
         url('AvenirLTStd-Black.woff') format('woff');
     font-weight: 900;
@@ -35,7 +35,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir LT Std';
+    font-family: 'Avenir LT Std Book';
     src: url('AvenirLTStd-Book.woff2') format('woff2'),
         url('AvenirLTStd-Book.woff') format('woff');
     font-weight: normal;
@@ -53,7 +53,7 @@
 }
 
 @font-face {
-    font-family: 'Gotham';
+    font-family: 'Gotham Light';
     src: url('Gotham-LightItalic.woff2') format('woff2'),
         url('Gotham-LightItalic.woff') format('woff');
     font-weight: 300;
