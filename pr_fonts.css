@@ -53,7 +53,7 @@
 }
 
 @font-face {
-    font-family: "Gotham";
+    font-family: "Gotham Light";
     src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-LightItalic.woff2') format('woff2'),
         url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-LightItalic.woff') format('woff');
     font-weight: 300;
