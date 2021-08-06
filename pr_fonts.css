@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Gotham Book';
-    src: url('Gotham-BookItalic.woff2') format('woff2'),
-        url('Gotham-BookItalic.woff') format('woff');
+    src: url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-LightItalic.woff2') format('woff2'),
+        url('https://github.com/bstroshek/PoolRescue/blob/main/Gotham-BookItalic.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
